@@ -4,13 +4,13 @@
  * and open the template in the editor.
  */
 
-package javaapplication39;
+package practicaexamen2progra2i;
 
 /**
  *
  * @author Administrador
  */
-public class JavaApplication39 {
+public class PracticaExamen2Progra2I {
 
     /**
      * @param args the command line arguments
